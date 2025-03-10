@@ -1,0 +1,429 @@
+2025-02-21 15:54:21,559 - PDFChat - INFO - Processing PDF file
+2025-02-21 15:54:21,559 - PDFChat - INFO - Processing PDF file
+2025-02-21 15:54:21,559 - PDFChat - INFO - Processing PDF file
+2025-02-21 15:54:56,787 - PDFChat - INFO - PDF processed successfully
+2025-02-21 15:54:56,787 - PDFChat - INFO - PDF processed successfully
+2025-02-21 15:54:56,787 - PDFChat - INFO - PDF processed successfully
+2025-02-21 15:54:56,792 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 15:54:56,792 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 15:54:56,792 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 15:55:03,269 - PDFChat - INFO - Initializing groq model: Mixtral-8x7b-32768
+2025-02-21 15:55:03,269 - PDFChat - INFO - Initializing groq model: Mixtral-8x7b-32768
+2025-02-21 15:55:03,269 - PDFChat - INFO - Initializing groq model: Mixtral-8x7b-32768
+2025-02-21 15:55:03,272 - PDFChat - ERROR - Error initializing LLM: Groq.__init__() got an unexpected keyword argument 'model'
+2025-02-21 15:55:03,272 - PDFChat - ERROR - Error initializing LLM: Groq.__init__() got an unexpected keyword argument 'model'
+2025-02-21 15:55:03,272 - PDFChat - ERROR - Error initializing LLM: Groq.__init__() got an unexpected keyword argument 'model'
+2025-02-21 15:55:03,274 - PDFChat - ERROR - Error in chat endpoint: Groq.__init__() got an unexpected keyword argument 'model'
+2025-02-21 15:55:03,274 - PDFChat - ERROR - Error in chat endpoint: Groq.__init__() got an unexpected keyword argument 'model'
+2025-02-21 15:55:03,274 - PDFChat - ERROR - Error in chat endpoint: Groq.__init__() got an unexpected keyword argument 'model'
+2025-02-21 15:56:34,758 - PDFChat - ERROR - Error in chat endpoint: 400: Please upload a PDF first
+2025-02-21 15:56:34,758 - PDFChat - ERROR - Error in chat endpoint: 400: Please upload a PDF first
+2025-02-21 15:56:34,758 - PDFChat - ERROR - Error in chat endpoint: 400: Please upload a PDF first
+2025-02-21 15:57:07,279 - PDFChat - INFO - Processing PDF file
+2025-02-21 15:57:07,279 - PDFChat - INFO - Processing PDF file
+2025-02-21 15:57:07,279 - PDFChat - INFO - Processing PDF file
+2025-02-21 15:57:39,224 - PDFChat - INFO - PDF processed successfully
+2025-02-21 15:57:39,224 - PDFChat - INFO - PDF processed successfully
+2025-02-21 15:57:39,224 - PDFChat - INFO - PDF processed successfully
+2025-02-21 15:57:39,227 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 15:57:39,227 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 15:57:39,227 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 15:58:20,718 - PDFChat - INFO - Initializing groq model: Mixtral-8x7b-32768
+2025-02-21 15:58:20,718 - PDFChat - INFO - Initializing groq model: Mixtral-8x7b-32768
+2025-02-21 15:58:20,718 - PDFChat - INFO - Initializing groq model: Mixtral-8x7b-32768
+2025-02-21 15:58:21,221 - PDFChat - INFO - Generating response
+2025-02-21 15:58:21,221 - PDFChat - INFO - Generating response
+2025-02-21 15:58:21,221 - PDFChat - INFO - Generating response
+2025-02-21 15:58:21,739 - PDFChat - ERROR - Error generating response: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2025-02-21 15:58:21,739 - PDFChat - ERROR - Error generating response: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2025-02-21 15:58:21,739 - PDFChat - ERROR - Error generating response: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2025-02-21 15:58:21,743 - PDFChat - ERROR - Error in chat endpoint: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2025-02-21 15:58:21,743 - PDFChat - ERROR - Error in chat endpoint: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2025-02-21 15:58:21,743 - PDFChat - ERROR - Error in chat endpoint: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2025-02-21 15:58:50,212 - PDFChat - INFO - Initializing groq model: Mixtral-8x7b-32768
+2025-02-21 15:58:50,212 - PDFChat - INFO - Initializing groq model: Mixtral-8x7b-32768
+2025-02-21 15:58:50,212 - PDFChat - INFO - Initializing groq model: Mixtral-8x7b-32768
+2025-02-21 15:58:50,290 - PDFChat - INFO - Generating response
+2025-02-21 15:58:50,290 - PDFChat - INFO - Generating response
+2025-02-21 15:58:50,290 - PDFChat - INFO - Generating response
+2025-02-21 15:58:50,975 - PDFChat - INFO - Response generated successfully
+2025-02-21 15:58:50,975 - PDFChat - INFO - Response generated successfully
+2025-02-21 15:58:50,975 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:11:48,165 - PDFChat - INFO - Processing PDF file
+2025-02-21 16:11:48,165 - PDFChat - INFO - Processing PDF file
+2025-02-21 16:11:48,165 - PDFChat - INFO - Processing PDF file
+2025-02-21 16:12:05,076 - PDFChat - INFO - PDF processed successfully
+2025-02-21 16:12:05,076 - PDFChat - INFO - PDF processed successfully
+2025-02-21 16:12:05,076 - PDFChat - INFO - PDF processed successfully
+2025-02-21 16:12:05,089 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 16:12:05,089 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 16:12:05,089 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 16:12:31,476 - PDFChat - INFO - Processing PDF file
+2025-02-21 16:12:31,476 - PDFChat - INFO - Processing PDF file
+2025-02-21 16:12:31,476 - PDFChat - INFO - Processing PDF file
+2025-02-21 16:12:35,116 - PDFChat - INFO - PDF processed successfully
+2025-02-21 16:12:35,116 - PDFChat - INFO - PDF processed successfully
+2025-02-21 16:12:35,116 - PDFChat - INFO - PDF processed successfully
+2025-02-21 16:12:35,119 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 16:12:35,119 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 16:12:35,119 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 16:12:57,954 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:12:57,954 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:12:57,954 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:12:58,228 - PDFChat - INFO - Generating response
+2025-02-21 16:12:58,228 - PDFChat - INFO - Generating response
+2025-02-21 16:12:58,228 - PDFChat - INFO - Generating response
+2025-02-21 16:12:59,012 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:12:59,012 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:12:59,012 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:15:53,429 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:15:53,429 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:15:53,429 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:15:53,553 - PDFChat - INFO - Generating response
+2025-02-21 16:15:53,553 - PDFChat - INFO - Generating response
+2025-02-21 16:15:53,553 - PDFChat - INFO - Generating response
+2025-02-21 16:15:54,503 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:15:54,503 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:15:54,503 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:16:15,275 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:16:15,275 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:16:15,275 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:16:15,316 - PDFChat - INFO - Generating response
+2025-02-21 16:16:15,316 - PDFChat - INFO - Generating response
+2025-02-21 16:16:15,316 - PDFChat - INFO - Generating response
+2025-02-21 16:16:15,859 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:16:15,859 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:16:15,859 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:16:30,647 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:16:30,647 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:16:30,647 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:16:30,679 - PDFChat - INFO - Generating response
+2025-02-21 16:16:30,679 - PDFChat - INFO - Generating response
+2025-02-21 16:16:30,679 - PDFChat - INFO - Generating response
+2025-02-21 16:16:31,263 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:16:31,263 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:16:31,263 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:17:45,210 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:17:45,210 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:17:45,210 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:17:45,287 - PDFChat - INFO - Generating response
+2025-02-21 16:17:45,287 - PDFChat - INFO - Generating response
+2025-02-21 16:17:45,287 - PDFChat - INFO - Generating response
+2025-02-21 16:17:46,323 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:17:46,323 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:17:46,323 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:18:44,418 - PDFChat - INFO - Processing PDF file
+2025-02-21 16:18:44,418 - PDFChat - INFO - Processing PDF file
+2025-02-21 16:18:44,418 - PDFChat - INFO - Processing PDF file
+2025-02-21 16:18:53,028 - PDFChat - INFO - PDF processed successfully
+2025-02-21 16:18:53,028 - PDFChat - INFO - PDF processed successfully
+2025-02-21 16:18:53,028 - PDFChat - INFO - PDF processed successfully
+2025-02-21 16:18:53,029 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 16:18:53,029 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 16:18:53,029 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 16:19:38,168 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:19:38,168 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:19:38,168 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:19:38,234 - PDFChat - INFO - Generating response
+2025-02-21 16:19:38,234 - PDFChat - INFO - Generating response
+2025-02-21 16:19:38,234 - PDFChat - INFO - Generating response
+2025-02-21 16:19:38,927 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:19:38,927 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:19:38,927 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:19:54,898 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:19:54,898 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:19:54,898 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:19:54,925 - PDFChat - INFO - Generating response
+2025-02-21 16:19:54,925 - PDFChat - INFO - Generating response
+2025-02-21 16:19:54,925 - PDFChat - INFO - Generating response
+2025-02-21 16:19:55,415 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:19:55,415 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:19:55,415 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:20:24,616 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:20:24,616 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:20:24,616 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:20:24,643 - PDFChat - INFO - Generating response
+2025-02-21 16:20:24,643 - PDFChat - INFO - Generating response
+2025-02-21 16:20:24,643 - PDFChat - INFO - Generating response
+2025-02-21 16:20:25,676 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:20:25,676 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:20:25,676 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:21:00,192 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:21:00,192 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:21:00,192 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:21:00,219 - PDFChat - INFO - Generating response
+2025-02-21 16:21:00,219 - PDFChat - INFO - Generating response
+2025-02-21 16:21:00,219 - PDFChat - INFO - Generating response
+2025-02-21 16:21:00,994 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:21:00,994 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:21:00,994 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:21:17,573 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:21:17,573 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:21:17,573 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:21:17,610 - PDFChat - INFO - Generating response
+2025-02-21 16:21:17,610 - PDFChat - INFO - Generating response
+2025-02-21 16:21:17,610 - PDFChat - INFO - Generating response
+2025-02-21 16:21:18,609 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:21:18,609 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:21:18,609 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:28:01,954 - PDFChat - INFO - Processing PDF file
+2025-02-21 16:28:01,954 - PDFChat - INFO - Processing PDF file
+2025-02-21 16:28:01,954 - PDFChat - INFO - Processing PDF file
+2025-02-21 16:28:18,570 - PDFChat - INFO - PDF processed successfully
+2025-02-21 16:28:18,570 - PDFChat - INFO - PDF processed successfully
+2025-02-21 16:28:18,570 - PDFChat - INFO - PDF processed successfully
+2025-02-21 16:28:18,572 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 16:28:18,572 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 16:28:18,572 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 16:28:19,223 - PDFChat - INFO - Processing PDF file
+2025-02-21 16:28:19,223 - PDFChat - INFO - Processing PDF file
+2025-02-21 16:28:19,223 - PDFChat - INFO - Processing PDF file
+2025-02-21 16:28:25,499 - PDFChat - INFO - PDF processed successfully
+2025-02-21 16:28:25,499 - PDFChat - INFO - PDF processed successfully
+2025-02-21 16:28:25,499 - PDFChat - INFO - PDF processed successfully
+2025-02-21 16:28:25,501 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 16:28:25,501 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 16:28:25,501 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 16:28:25,523 - PDFChat - INFO - Processing PDF file
+2025-02-21 16:28:25,523 - PDFChat - INFO - Processing PDF file
+2025-02-21 16:28:25,523 - PDFChat - INFO - Processing PDF file
+2025-02-21 16:28:31,756 - PDFChat - INFO - PDF processed successfully
+2025-02-21 16:28:31,756 - PDFChat - INFO - PDF processed successfully
+2025-02-21 16:28:31,756 - PDFChat - INFO - PDF processed successfully
+2025-02-21 16:28:31,758 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 16:28:31,758 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 16:28:31,758 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-21 16:28:54,813 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:28:54,813 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:28:54,813 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-21 16:28:55,150 - PDFChat - INFO - Generating response
+2025-02-21 16:28:55,150 - PDFChat - INFO - Generating response
+2025-02-21 16:28:55,150 - PDFChat - INFO - Generating response
+2025-02-21 16:28:55,949 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:28:55,949 - PDFChat - INFO - Response generated successfully
+2025-02-21 16:28:55,949 - PDFChat - INFO - Response generated successfully
+2025-02-23 20:30:33,224 - PDFChat - INFO - Processing PDF file
+2025-02-23 20:30:33,224 - PDFChat - INFO - Processing PDF file
+2025-02-23 20:30:33,224 - PDFChat - INFO - Processing PDF file
+2025-02-23 20:31:19,340 - PDFChat - INFO - PDF processed successfully
+2025-02-23 20:31:19,340 - PDFChat - INFO - PDF processed successfully
+2025-02-23 20:31:19,340 - PDFChat - INFO - PDF processed successfully
+2025-02-23 20:31:19,342 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-23 20:31:19,342 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-23 20:31:19,342 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-23 20:31:34,228 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-23 20:31:34,228 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-23 20:31:34,228 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-23 20:31:34,438 - PDFChat - INFO - Generating response
+2025-02-23 20:31:34,438 - PDFChat - INFO - Generating response
+2025-02-23 20:31:34,438 - PDFChat - INFO - Generating response
+2025-02-23 20:31:35,276 - PDFChat - INFO - Response generated successfully
+2025-02-23 20:31:35,276 - PDFChat - INFO - Response generated successfully
+2025-02-23 20:31:35,276 - PDFChat - INFO - Response generated successfully
+2025-02-23 20:31:58,227 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-23 20:31:58,227 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-23 20:31:58,227 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-23 20:31:58,251 - PDFChat - INFO - Generating response
+2025-02-23 20:31:58,251 - PDFChat - INFO - Generating response
+2025-02-23 20:31:58,251 - PDFChat - INFO - Generating response
+2025-02-23 20:31:58,776 - PDFChat - INFO - Response generated successfully
+2025-02-23 20:31:58,776 - PDFChat - INFO - Response generated successfully
+2025-02-23 20:31:58,776 - PDFChat - INFO - Response generated successfully
+2025-02-23 20:32:31,619 - PDFChat - INFO - Processing PDF file
+2025-02-23 20:32:31,619 - PDFChat - INFO - Processing PDF file
+2025-02-23 20:32:31,619 - PDFChat - INFO - Processing PDF file
+2025-02-23 20:32:39,679 - PDFChat - INFO - PDF processed successfully
+2025-02-23 20:32:39,679 - PDFChat - INFO - PDF processed successfully
+2025-02-23 20:32:39,679 - PDFChat - INFO - PDF processed successfully
+2025-02-23 20:32:39,686 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-23 20:32:39,686 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-23 20:32:39,686 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-02-23 20:33:22,287 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-23 20:33:22,287 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-23 20:33:22,287 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-23 20:33:22,313 - PDFChat - INFO - Generating response
+2025-02-23 20:33:22,313 - PDFChat - INFO - Generating response
+2025-02-23 20:33:22,313 - PDFChat - INFO - Generating response
+2025-02-23 20:33:22,854 - PDFChat - INFO - Response generated successfully
+2025-02-23 20:33:22,854 - PDFChat - INFO - Response generated successfully
+2025-02-23 20:33:22,854 - PDFChat - INFO - Response generated successfully
+2025-02-23 20:33:35,144 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-23 20:33:35,144 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-23 20:33:35,144 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-02-23 20:33:35,177 - PDFChat - INFO - Generating response
+2025-02-23 20:33:35,177 - PDFChat - INFO - Generating response
+2025-02-23 20:33:35,177 - PDFChat - INFO - Generating response
+2025-02-23 20:33:36,238 - PDFChat - INFO - Response generated successfully
+2025-02-23 20:33:36,238 - PDFChat - INFO - Response generated successfully
+2025-02-23 20:33:36,238 - PDFChat - INFO - Response generated successfully
+2025-03-03 07:57:02,235 - PDFChat - INFO - Processing PDF file
+2025-03-03 07:57:02,235 - PDFChat - INFO - Processing PDF file
+2025-03-03 07:57:02,235 - PDFChat - INFO - Processing PDF file
+2025-03-03 07:57:49,828 - PDFChat - INFO - PDF processed successfully
+2025-03-03 07:57:49,828 - PDFChat - INFO - PDF processed successfully
+2025-03-03 07:57:49,828 - PDFChat - INFO - PDF processed successfully
+2025-03-03 07:57:49,832 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 07:57:49,832 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 07:57:49,832 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 07:57:49,882 - PDFChat - INFO - Processing PDF file
+2025-03-03 07:57:49,882 - PDFChat - INFO - Processing PDF file
+2025-03-03 07:57:49,882 - PDFChat - INFO - Processing PDF file
+2025-03-03 07:57:58,054 - PDFChat - INFO - PDF processed successfully
+2025-03-03 07:57:58,054 - PDFChat - INFO - PDF processed successfully
+2025-03-03 07:57:58,054 - PDFChat - INFO - PDF processed successfully
+2025-03-03 07:57:58,057 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 07:57:58,057 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 07:57:58,057 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 07:57:58,062 - PDFChat - INFO - Processing PDF file
+2025-03-03 07:57:58,062 - PDFChat - INFO - Processing PDF file
+2025-03-03 07:57:58,062 - PDFChat - INFO - Processing PDF file
+2025-03-03 07:58:05,965 - PDFChat - INFO - PDF processed successfully
+2025-03-03 07:58:05,965 - PDFChat - INFO - PDF processed successfully
+2025-03-03 07:58:05,965 - PDFChat - INFO - PDF processed successfully
+2025-03-03 07:58:05,968 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 07:58:05,968 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 07:58:05,968 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 07:58:05,971 - PDFChat - INFO - Processing PDF file
+2025-03-03 07:58:05,971 - PDFChat - INFO - Processing PDF file
+2025-03-03 07:58:05,971 - PDFChat - INFO - Processing PDF file
+2025-03-03 07:58:14,818 - PDFChat - INFO - PDF processed successfully
+2025-03-03 07:58:14,818 - PDFChat - INFO - PDF processed successfully
+2025-03-03 07:58:14,818 - PDFChat - INFO - PDF processed successfully
+2025-03-03 07:58:14,822 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 07:58:14,822 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 07:58:14,822 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 07:58:14,829 - PDFChat - INFO - Processing PDF file
+2025-03-03 07:58:14,829 - PDFChat - INFO - Processing PDF file
+2025-03-03 07:58:14,829 - PDFChat - INFO - Processing PDF file
+2025-03-03 07:58:24,144 - PDFChat - INFO - PDF processed successfully
+2025-03-03 07:58:24,144 - PDFChat - INFO - PDF processed successfully
+2025-03-03 07:58:24,144 - PDFChat - INFO - PDF processed successfully
+2025-03-03 07:58:24,148 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 07:58:24,148 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 07:58:24,148 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 07:58:37,016 - PDFChat - INFO - Processing PDF file
+2025-03-03 07:58:37,016 - PDFChat - INFO - Processing PDF file
+2025-03-03 07:58:37,016 - PDFChat - INFO - Processing PDF file
+2025-03-03 07:58:46,431 - PDFChat - INFO - PDF processed successfully
+2025-03-03 07:58:46,431 - PDFChat - INFO - PDF processed successfully
+2025-03-03 07:58:46,431 - PDFChat - INFO - PDF processed successfully
+2025-03-03 07:58:46,435 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 07:58:46,435 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 07:58:46,435 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 07:58:57,380 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-03-03 07:58:57,380 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-03-03 07:58:57,380 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-03-03 07:58:57,840 - PDFChat - INFO - Generating response
+2025-03-03 07:58:57,840 - PDFChat - INFO - Generating response
+2025-03-03 07:58:57,840 - PDFChat - INFO - Generating response
+2025-03-03 07:58:58,795 - PDFChat - INFO - Response generated successfully
+2025-03-03 07:58:58,795 - PDFChat - INFO - Response generated successfully
+2025-03-03 07:58:58,795 - PDFChat - INFO - Response generated successfully
+2025-03-03 07:59:16,266 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-03-03 07:59:16,266 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-03-03 07:59:16,266 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-03-03 07:59:16,314 - PDFChat - INFO - Generating response
+2025-03-03 07:59:16,314 - PDFChat - INFO - Generating response
+2025-03-03 07:59:16,314 - PDFChat - INFO - Generating response
+2025-03-03 07:59:16,941 - PDFChat - INFO - Response generated successfully
+2025-03-03 07:59:16,941 - PDFChat - INFO - Response generated successfully
+2025-03-03 07:59:16,941 - PDFChat - INFO - Response generated successfully
+2025-03-03 07:59:26,448 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-03-03 07:59:26,448 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-03-03 07:59:26,448 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-03-03 07:59:26,504 - PDFChat - INFO - Generating response
+2025-03-03 07:59:26,504 - PDFChat - INFO - Generating response
+2025-03-03 07:59:26,504 - PDFChat - INFO - Generating response
+2025-03-03 07:59:27,171 - PDFChat - INFO - Response generated successfully
+2025-03-03 07:59:27,171 - PDFChat - INFO - Response generated successfully
+2025-03-03 07:59:27,171 - PDFChat - INFO - Response generated successfully
+2025-03-03 07:59:51,943 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-03-03 07:59:51,943 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-03-03 07:59:51,943 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-03-03 07:59:51,988 - PDFChat - INFO - Generating response
+2025-03-03 07:59:51,988 - PDFChat - INFO - Generating response
+2025-03-03 07:59:51,988 - PDFChat - INFO - Generating response
+2025-03-03 07:59:53,385 - PDFChat - INFO - Response generated successfully
+2025-03-03 07:59:53,385 - PDFChat - INFO - Response generated successfully
+2025-03-03 07:59:53,385 - PDFChat - INFO - Response generated successfully
+2025-03-03 08:01:25,681 - PDFChat - INFO - Processing PDF file
+2025-03-03 08:01:25,681 - PDFChat - INFO - Processing PDF file
+2025-03-03 08:01:25,681 - PDFChat - INFO - Processing PDF file
+2025-03-03 08:01:46,314 - PDFChat - INFO - PDF processed successfully
+2025-03-03 08:01:46,314 - PDFChat - INFO - PDF processed successfully
+2025-03-03 08:01:46,314 - PDFChat - INFO - PDF processed successfully
+2025-03-03 08:01:46,319 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 08:01:46,319 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 08:01:46,319 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 08:02:03,899 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-03-03 08:02:03,899 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-03-03 08:02:03,899 - PDFChat - INFO - Initializing groq model: Gemma2-9b-It
+2025-03-03 08:02:03,959 - PDFChat - INFO - Generating response
+2025-03-03 08:02:03,959 - PDFChat - INFO - Generating response
+2025-03-03 08:02:03,959 - PDFChat - INFO - Generating response
+2025-03-03 08:02:04,495 - PDFChat - INFO - Response generated successfully
+2025-03-03 08:02:04,495 - PDFChat - INFO - Response generated successfully
+2025-03-03 08:02:04,495 - PDFChat - INFO - Response generated successfully
+2025-03-03 08:04:00,385 - PDFChat - INFO - Processing PDF file
+2025-03-03 08:04:00,385 - PDFChat - INFO - Processing PDF file
+2025-03-03 08:04:00,385 - PDFChat - INFO - Processing PDF file
+2025-03-03 08:04:11,490 - PDFChat - INFO - PDF processed successfully
+2025-03-03 08:04:11,490 - PDFChat - INFO - PDF processed successfully
+2025-03-03 08:04:11,490 - PDFChat - INFO - PDF processed successfully
+2025-03-03 08:04:11,496 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 08:04:11,496 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 08:04:11,496 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 08:04:23,951 - PDFChat - INFO - Initializing groq model: Deepseek-R1-Distill-Llama-70b
+2025-03-03 08:04:23,951 - PDFChat - INFO - Initializing groq model: Deepseek-R1-Distill-Llama-70b
+2025-03-03 08:04:23,951 - PDFChat - INFO - Initializing groq model: Deepseek-R1-Distill-Llama-70b
+2025-03-03 08:04:24,021 - PDFChat - INFO - Generating response
+2025-03-03 08:04:24,021 - PDFChat - INFO - Generating response
+2025-03-03 08:04:24,021 - PDFChat - INFO - Generating response
+2025-03-03 08:04:28,587 - PDFChat - INFO - Response generated successfully
+2025-03-03 08:04:28,587 - PDFChat - INFO - Response generated successfully
+2025-03-03 08:04:28,587 - PDFChat - INFO - Response generated successfully
+2025-03-03 08:04:55,507 - PDFChat - INFO - Initializing groq model: Deepseek-R1-Distill-Llama-70b
+2025-03-03 08:04:55,507 - PDFChat - INFO - Initializing groq model: Deepseek-R1-Distill-Llama-70b
+2025-03-03 08:04:55,507 - PDFChat - INFO - Initializing groq model: Deepseek-R1-Distill-Llama-70b
+2025-03-03 08:04:55,557 - PDFChat - INFO - Generating response
+2025-03-03 08:04:55,557 - PDFChat - INFO - Generating response
+2025-03-03 08:04:55,557 - PDFChat - INFO - Generating response
+2025-03-03 08:04:57,895 - PDFChat - INFO - Response generated successfully
+2025-03-03 08:04:57,895 - PDFChat - INFO - Response generated successfully
+2025-03-03 08:04:57,895 - PDFChat - INFO - Response generated successfully
+2025-03-03 08:05:14,711 - PDFChat - INFO - Initializing groq model: Deepseek-R1-Distill-Llama-70b
+2025-03-03 08:05:14,711 - PDFChat - INFO - Initializing groq model: Deepseek-R1-Distill-Llama-70b
+2025-03-03 08:05:14,711 - PDFChat - INFO - Initializing groq model: Deepseek-R1-Distill-Llama-70b
+2025-03-03 08:05:14,773 - PDFChat - INFO - Generating response
+2025-03-03 08:05:14,773 - PDFChat - INFO - Generating response
+2025-03-03 08:05:14,773 - PDFChat - INFO - Generating response
+2025-03-03 08:05:18,415 - PDFChat - INFO - Response generated successfully
+2025-03-03 08:05:18,415 - PDFChat - INFO - Response generated successfully
+2025-03-03 08:05:18,415 - PDFChat - INFO - Response generated successfully
+2025-03-03 08:05:37,832 - PDFChat - INFO - Processing PDF file
+2025-03-03 08:05:37,832 - PDFChat - INFO - Processing PDF file
+2025-03-03 08:05:37,832 - PDFChat - INFO - Processing PDF file
+2025-03-03 08:05:48,342 - PDFChat - INFO - PDF processed successfully
+2025-03-03 08:05:48,342 - PDFChat - INFO - PDF processed successfully
+2025-03-03 08:05:48,342 - PDFChat - INFO - PDF processed successfully
+2025-03-03 08:05:48,348 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 08:05:48,348 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 08:05:48,348 - PDFChat - INFO - Temporary PDF file cleaned up
+2025-03-03 08:06:24,268 - PDFChat - INFO - Initializing groq model: Deepseek-R1-Distill-Llama-70b
+2025-03-03 08:06:24,268 - PDFChat - INFO - Initializing groq model: Deepseek-R1-Distill-Llama-70b
+2025-03-03 08:06:24,268 - PDFChat - INFO - Initializing groq model: Deepseek-R1-Distill-Llama-70b
+2025-03-03 08:06:24,321 - PDFChat - INFO - Generating response
+2025-03-03 08:06:24,321 - PDFChat - INFO - Generating response
+2025-03-03 08:06:24,321 - PDFChat - INFO - Generating response
+2025-03-03 08:06:26,850 - PDFChat - INFO - Response generated successfully
+2025-03-03 08:06:26,850 - PDFChat - INFO - Response generated successfully
+2025-03-03 08:06:26,850 - PDFChat - INFO - Response generated successfully
+2025-03-03 08:06:43,589 - PDFChat - INFO - Initializing groq model: Deepseek-R1-Distill-Llama-70b
+2025-03-03 08:06:43,589 - PDFChat - INFO - Initializing groq model: Deepseek-R1-Distill-Llama-70b
+2025-03-03 08:06:43,589 - PDFChat - INFO - Initializing groq model: Deepseek-R1-Distill-Llama-70b
+2025-03-03 08:06:43,647 - PDFChat - INFO - Generating response
+2025-03-03 08:06:43,647 - PDFChat - INFO - Generating response
+2025-03-03 08:06:43,647 - PDFChat - INFO - Generating response
+2025-03-03 08:06:45,960 - PDFChat - INFO - Response generated successfully
+2025-03-03 08:06:45,960 - PDFChat - INFO - Response generated successfully
+2025-03-03 08:06:45,960 - PDFChat - INFO - Response generated successfully
